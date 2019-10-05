@@ -1,0 +1,54 @@
+{
+    "token": (process.env.TOKEN),
+    "prefix": "//",
+    "osuApiKey": "OSUAPIKEY",
+    "fortnite": "FORTNITEAPIKEY",
+    "discordBots": {
+        "enabled": false,
+        "token": (process.env.TOKEN1)
+    },
+    "db": {
+        "url": "URL",
+        "username": "USERNAME",
+        "password": "PASSWORD"
+    },
+    "google": {
+        "cseID": (process.env.CSE),
+        "appApiKey": (process.env.API)
+    },
+    "owner": {
+        "id": 467306557114155018,
+        "username": "HÈxagÿn",
+        "discriminator": "6542",
+        "tag": "HÈxagÿn#6542"
+    },
+    "debug": false,
+    "wikisEnabled": true,
+    "wikis": {
+        "home": "https://extremeexploit.github.io/EXE_Bot/Wiki/",
+        "commands": "https://extremeexploit.github.io/EXE_Bot/Wiki/Commands",
+        "replies": "https://extremeexploit.github.io/EXE_Bot/Wiki/Replies",
+        "faq": "https://extremeexploit.github.io/EXE_Bot/Wiki/FAQ",
+        "modifiers": "https://extremeexploit.github.io/EXE_Bot/Wiki/Modifiers.html"
+    },
+    "commands": {
+        "categories": {
+            "Support": true,
+            "Info": true,
+            "Random": true,
+            "Moderation": true,
+            "NSFW": true,
+            "Fun": true,
+            "Games": true,
+            "Misc": true,
+            "Utility": true,
+            "Wiki": true,
+            "BotOwner": true
+        }
+    },
+    "maintance": false,
+    "replies": {
+        "standard": true,
+        "osu": true
+    }
+}
