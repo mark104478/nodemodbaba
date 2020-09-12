@@ -57,7 +57,7 @@
     "mime-types": "^2.1.20",
     "mongoose": "^5.3.12",
     "mysql": "^2.16.0",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.2.9",
     "opusscript": "0.0.6",
     "osu.js": "^2.0.3",
